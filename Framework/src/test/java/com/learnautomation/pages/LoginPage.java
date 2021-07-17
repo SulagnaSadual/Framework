@@ -9,7 +9,6 @@ import com.learnautomation.utilities.BrowserFactory;
 public class LoginPage {
 	
 	WebDriver driver;
-	
 	//This is new code from Sulagna
 
 	public LoginPage(WebDriver ldriver)
